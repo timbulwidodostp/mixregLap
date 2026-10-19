@@ -1,6 +1,8 @@
 # mixregLap
 Robust Mixture Regression with Laplace Distribution Use mixregLap (MixSemiRob) With (In) R Software
 
+https://www.youtube.com/watch?v=R3EBsmrTrYg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
